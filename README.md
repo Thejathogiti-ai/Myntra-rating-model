@@ -8,7 +8,7 @@ This project presents an end-to-end Machine Learning pipeline developed to predi
 
 🔗 Live Streamlit Application: https://myntra-rating-model-c8uo4myp38pjrzq8gbkcnm.streamlit.app/
 
-# ![Myntra Streamlit App](Myntra app.png)
+# ![Myntra Streamlit App](Myntra-app.png)
 
 ---
 
